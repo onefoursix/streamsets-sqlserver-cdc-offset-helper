@@ -1,0 +1,11 @@
+{
+  "offsets": {
+    "$com.streamsets.pipeline.stage.origin.jdbc.CDC.sqlserver.SQLServerCDCSource.offset.version$": "1",
+    "tableName=cdc.dbo_t100_CT;;;partitioned=false;;;partitionSequence=-1;;;partitionStartOffsets=;;;partitionMaxOffsets=;;;usingNonIncrementalLoad=false": "___$seqval=0000003100001C8F0002::___$operation=4::___$start_lsn=0000003100001C8F0003",
+    "tableName=cdc.dbo_t101_CT;;;partitioned=false;;;partitionSequence=-1;;;partitionStartOffsets=;;;partitionMaxOffsets=;;;usingNonIncrementalLoad=false": "___$seqval=0000003100001A080002::___$operation=2::___$start_lsn=0000003100001A080003",
+    "tableName=cdc.dbo_t102_CT;;;partitioned=false;;;partitionSequence=-1;;;partitionStartOffsets=;;;partitionMaxOffsets=;;;usingNonIncrementalLoad=false": "___$seqval=0000003100001A100002::___$operation=2::___$start_lsn=0000003100001A100003",
+    "tableName=cdc.dbo_t103_CT;;;partitioned=false;;;partitionSequence=-1;;;partitionStartOffsets=;;;partitionMaxOffsets=;;;usingNonIncrementalLoad=false": "___$seqval=0000003100001A5A0002::___$operation=2::___$start_lsn=0000003100001A5A0003",
+    "tableName=cdc.dbo_t104_CT;;;partitioned=false;;;partitionSequence=-1;;;partitionStartOffsets=;;;partitionMaxOffsets=;;;usingNonIncrementalLoad=false": "___$seqval=0000003100001C4E0002::___$operation=4::___$start_lsn=0000003100001C4E0003"
+  },
+  "version": 2
+}
